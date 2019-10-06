@@ -1,0 +1,646 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"b",
+				"bottom\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"tab",
+				"table-cell\tdisplay"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"teal",
+				"text-align\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"m",
+				"middle\tvertical-align"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"incl",
+				"include"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"marig",
+				"margin-left\tproperty"
+			],
+			[
+				"tes",
+				"text-align-last\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"padi",
+				"padding-top\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"log",
+				"Login"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"Pa",
+				"password"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main/recip.php",
+			"settings":
+			{
+				"buffer_size": 1145,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"liste",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"pac",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp64/www/NorderNet/php/test.php",
+		"/C/wamp64/www/NorderNet/stock.php",
+		"/C/wamp64/www/NorderNet/recip.php",
+		"/C/wamp64/www/NorderNet/logon.php",
+		"/C/wamp64/www/NorderNet/liste.php",
+		"/C/wamp64/www/NorderNet/config.php",
+		"/C/wamp64/www/NorderNet/test.php",
+		"/C/wamp64/www/NorderNet/css/test.css",
+		"/C/wamp64/www/NorderNet/css/recip.css",
+		"/C/wamp64/www/NorderNet/home.php",
+		"/C/wamp64/www/NorderNet/css/style.css",
+		"/C/wamp64/www/NorderNet/php/head.php",
+		"/C/wamp64/www/NorderNet/php/footer.php",
+		"/C/wamp64/www/NorderNet/php/header_logo.php",
+		"/C/wamp64/www/NorderNet/php/header_login.php",
+		"/C/wamp64/www/NorderNet/php/header_ico.php",
+		"/C/wamp64/www/NorderNet/php/header.php",
+		"/C/wamp64/www/NorderNet/css/home.css",
+		"/C/wamp64/www/NorderNet/main/lorem.php",
+		"/C/wamp64/www/NorderNet/css/logon.css",
+		"/C/wamp64/www/NorderNet/main/logon.php",
+		"/C/wamp64/www/NorderNet/main/home.php",
+		"/C/wamp64/www/NorderNet/php/_vertical.php",
+		"/C/wamp64/www/NorderNet/css/main.css",
+		"/C/wamp64/www/NorderNet/nordernet.php",
+		"/C/wamp64/bin/apache/apache2.4.39/conf/extra/httpd-vhosts.conf",
+		"/C/wamp64/bin/apache/apache2.4.39/conf/httpd.conf",
+		"/C/wamp64/logs/access.log",
+		"/C/wamp64/www/NorderNet/php/_nom_page.php",
+		"/C/wamp64/www/NorderNet/php/login.php",
+		"/C/wamp64/www/NorderNet/php/identification.php",
+		"/C/wamp64/www/NorderNet/page/liste.php",
+		"/C/wamp64/www/NorderNet/page/stock.php",
+		"/C/wamp64/www/NorderNet/page/home.php",
+		"/C/wamp64/www/NorderNet/page/nordernet.php",
+		"/C/wamp64/www/NorderNet/php/lorem.php",
+		"/C/wamp64/www/NorderNet/php/recip.php",
+		"/C/wamp64/www/NorderNet/php/stock.php",
+		"/C/wamp64/www/NorderNet/php/_select_menu_ico.php",
+		"/C/Users/BVE-Benedykt/Desktop/NorderNet/css/style.css",
+		"/C/Users/BVE-Benedykt/Desktop/NorderNet/php/header.php",
+		"/C/Users/BVE-Benedykt/Desktop/NorderNet/! Style.php",
+		"/C/Users/BVE-Benedykt/Desktop/NorderNet/css/footer.css",
+		"/C/Users/BVE-Benedykt/Desktop/NorderNet/css/header.css",
+		"/C/Users/BVE-Benedykt/Desktop/NorderNet/identification.html",
+		"/C/Users/BVE-Benedykt/Desktop/NorderNet/identification.css",
+		"/C/Users/BVE-Benedykt/Desktop/NorderNet/base_css/style.css",
+		"/C/Users/BVE-Benedykt/Desktop/NorderNet/base_css/footer.css",
+		"/C/Users/BVE-Benedykt/Desktop/NorderNet/base_css/header.css",
+		"/C/Users/BVE-Benedykt/Desktop/CV-HTML/page.html",
+		"/C/Users/BVE-Benedykt/Pictures/nOrder/ico_liste.png",
+		"/C/Users/BVE-Benedykt/Pictures/nOrder/ico_home.png",
+		"/C/Users/BVE-Benedykt/Pictures/nOrder/ico_erecipient.png",
+		"/C/Users/BVE-Benedykt/Pictures/nOrder/ico_config.png",
+		"/C/Users/BVE-Benedykt/Pictures/nOrder/ico_tag.png",
+		"/C/Users/BVE-Benedykt/Pictures/nOrder/ico_stock.png",
+		"/C/Users/BVE-Benedykt/Pictures/nOrder/ico_user.png",
+		"/C/Users/BVE-Benedykt/Pictures/nOrder/logo.png",
+		"/C/Users/BVE-Benedykt/Desktop/NorderNet/home.html",
+		"/C/Users/BVE-Benedykt/Desktop/NorderNet/css/base.css",
+		"/C/Users/BVE-Benedykt/Desktop/NorderNet/basetest.html",
+		"/C/Users/BVE-Benedykt/Desktop/NorderNet/css/_footer.css",
+		"/C/Users/BVE-Benedykt/Desktop/NorderNet/css/_header.css",
+		"/C/Users/BVE-Benedykt/Desktop/NorderNet/style.css",
+		"/C/Users/BVE-Benedykt/Desktop/NorderNet/base.html",
+		"/C/Users/BVE-Benedykt/Desktop/Test css/css.css",
+		"/C/Users/BVE-Benedykt/Desktop/Test css/style.css",
+		"/C/Users/BVE-Benedykt/Desktop/Les Mains Blanches – Ecole de Cirque et de trapèze Volant.html",
+		"/C/Users/BVE-Benedykt/Desktop/Test css/index.html",
+		"/C/Users/BVE-Benedykt/Desktop/Test css/css.html",
+		"/C/Users/BVE-Benedykt/Documents/index.html",
+		"/C/Users/BVE-Benedykt/Desktop/HTML/page.html",
+		"/C/Users/BVE-Benedykt/Desktop/HTML/test_val.html",
+		"/C/Users/BVE-Benedykt/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/BVE-Benedykt/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/BVE-Benedykt/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/BVE-Benedykt/Desktop/HTML/style.css"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"><",
+			"img",
+			"test",
+			"require",
+			"allow from",
+			"allow from 127",
+			"allow from ",
+			"virtualhost",
+			"';}",
+			" ;",
+			".."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			">\n<",
+			";"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main/recip.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1145,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": 252,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.411917098446,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nOrdernet.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,106 @@
+/* RECIP.CSS */
+
+/* recip-grid */
+
+	div.recip_section
+		{
+		/*background-color: AntiqueWhite;*/
+		position: relative;
+		display: grid;
+		grid-template-columns: repeat(7, 1fr);
+		grid-gap: 0 .5rem;
+		text-align: left;
+		}
+
+	div.recip_ebase
+		{
+		position: relative;
+		grid-column: 1 / span 1;
+		grid-row: 1 / span 2;
+		min-height: 22vmin;
+		min-width:  15vmin;
+		padding-bottom: 2vmin;
+		}
+
+	img.recip_ebase
+		{
+		position: absolute;
+		max-width: 100%;
+		height: auto;
+		bottom: 0;
+		}
+
+	div.recip_title
+		{
+		position: relative;
+		grid-column: 2 / span 6;
+		grid-row: 1 / span 1;
+		z-index: 1;
+		white-space: nowrap;
+		font-size: 7vmin;
+		overflow: hidden;
+		text-overflow: ellipsis;
+		letter-spacing: -.05em;
+		}
+
+	div.recip_id
+		{
+		position: relative;
+		grid-column: 2 / span 1;
+		grid-row: 2 /span 1;
+		text-align: center;
+		font-size: 7vmin;
+		}
+
+	div.recip_cloud
+		{
+		position: relative;
+		grid-column: 3 / span 1;
+		grid-row: 2 / span 1;
+		}
+
+	div.recip_batt
+		{
+		position: relative;
+		grid-column: 4 / span 1;
+		grid-row: 2 / span 1;
+		}
+
+	div.recip_sync
+		{
+		position: relative;
+		grid-column: 5 / span 1;
+		grid-row: 2 / span 1;
+		}
+
+	div.recip_empty
+		{
+		position: relative;
+		grid-column: 6 / span 2;
+		grid-row: 2 / span 1;
+		}
+
+	div.recip_middle, 
+	img.recip_middle 
+		{
+		position: absolute;
+		max-width: 100%;
+		height: auto;
+		transform: translateY(-50%);
+		top: 50%;
+		z-index: 5;
+		}
+
+/* recip-more */
+
+	div.recip_more
+		{
+		text-align: center;
+		height: 3rem;
+		padding: 0;
+		}
+
+	img.recip_more
+		{
+		height: 100%;
+		}

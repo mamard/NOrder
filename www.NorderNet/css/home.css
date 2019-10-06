@@ -1,0 +1,32 @@
+/* HOME.CSS */
+
+	img.home
+		{
+		display: inline-block;
+		width: 5rem;
+		}
+	div.home_texte
+		{
+		display: inline-block;
+		width: 10rem;
+		vertical-align: top;
+		text-align: left;
+		font-size: .8rem;
+		color: #555;
+		padding-top: .5rem
+
+		}
+	ul.home_texte
+		{
+		padding-left: 1rem;
+		margin: 0;
+		}
+
+	span.home_date
+		{
+		white-space: nowrap;
+		font-style: italic;
+		vertical-align: top;
+		font-size: 80%;
+		color: #777;
+		}

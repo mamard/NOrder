@@ -1,0 +1,389 @@
+/* ADD PRODUCT */
+
+	div.add_product_margin
+		{
+		height: 20vmin;
+		background-color: #eee;
+		}
+	div.add_product
+		{
+		width: 93vw;
+		font-size: 4vmin;
+		position: fixed;
+		bottom: 10vh;
+		z-index: 10;
+		}
+
+	/* Ajouter un produit */
+		div.add_product_add_button
+			{
+			text-align: right;
+			height: 18vmin;
+			}
+		img.add_product_add_button
+			{
+			text-align: right;
+			height: 13vmin;
+			}
+
+	/* Commun */
+		a.add_product_close
+			{
+			display: block;
+			text-align: right;
+			margin-right: 3vmin;
+			color: inherit;
+			}
+		.add_product_style_button
+			{
+			position: relative;
+			border: solid 1px #eee;
+			background-color: #eee;
+			border-radius: 2vmin;
+			box-shadow: 0 0 .5rem #555;
+			padding:2vmin auto;
+			top: 0; bottom: 0;
+			left: 0; right: 0;
+			margin: 0;
+
+			}
+
+	/* Select methode */
+		#add_product_method
+			{
+			height: 0;
+			overflow: hidden;
+			transition: height .5s;
+			transform: translateY(19vmin);
+			background-color: white;
+			}  
+		#add_product_method:target
+			{
+			height: 40vmin;
+			border-radius: .8rem;
+			box-shadow: 0 0 .5rem #555;
+
+			}
+		/* method_grid */
+			.add_product_method_grid
+				{
+				/*background-color:	AntiqueWhite;*/
+				position: relative;
+				display: grid;
+				grid-template-columns:
+				auto 30vmin 10vmin 30vmin auto  ;
+				margin: 3vmin 0;
+				grid-gap: 0 .5rem;
+				text-align: left;
+				height: 15vmin;
+				}
+			div.add_product_method_scan
+				{
+				grid-column: 2/ span 1;
+				grid-row: 1 / span 1;
+				text-align: center;
+				}
+			img.add_product_method_scan
+				{
+				height: 100%;
+				height: 13vmin;
+				margin-top: 1vmin;
+				}
+			.add_product_method_or
+				{
+				grid-column: 3 / span 1;
+				grid-row: 1 / span 1;
+				text-align: center;
+				margin-top: 4vmin;
+				font-size: 5vmin;
+				}
+			.add_product_method_manual
+				{
+				grid-column: 4 / span 1;
+				grid-row: 1 / span 1;
+				position: relative;
+				top: 0; bottom: 0;
+				left: 0; right: 0;
+				color: black;
+				text-decoration: none;
+				font-size: 5vmin;
+				text-align: center;
+				}
+			.add_product_method_scan_text
+				{
+				grid-column: 2 / span 1;
+				grid-row: 2 / span 1;
+				text-align: center;
+				}
+			.add_product_method_manual_text
+				{
+				grid-column: 4 / span 1;
+				grid-row: 2 / span 1;
+				text-align: center;
+				}
+
+	/* Saisie manuelle */
+		#add_product_manual
+			{
+			height: 0;
+			overflow: hidden;
+			transition: height .5s;
+			transform: translateY(19vmin);
+			background-color: white;
+			}  
+		#add_product_manual:target
+			{
+			height: 40vmin;
+			border-radius: .8rem;
+			box-shadow: 0 0 .5rem #555;
+			}
+		/* method_grid */
+			.add_product_manual_grid
+				{
+				/*background-color:	AntiqueWhite;*/
+				position: relative;
+				display: grid;
+				grid-template-columns:
+				auto 60vmin 10vmin auto  ;
+				margin: 3vmin 0;
+				text-align: left;
+				}
+			input.add_product_manual_value
+				{
+				grid-column: 2 / span 1;
+				grid-row: 1 / span 1;
+				position: relative;
+				top: 0; bottom: 0;
+				left: 0; right: 0;
+				padding-left: 3vmin;
+				background-color: #47CAFF;
+				color: white;
+				font-size: inherit;
+				border-width: 1px 0 1px 1px;
+				border-style: solid;
+				border-color: black;
+				}
+			input.add_product_manual_submit
+				{
+				grid-column: 3 / span 1;
+				grid-row: 1 / span 1;
+				cursor: pointer;
+				top: 0; bottom: 0;
+				left: 0; right: 0;
+				text-align: center;
+				text-decoration: none;
+				display: inline-block;
+				font-size: 4vmin;
+				width: 100%;
+				background-color: #00B6FF;
+				color: white;
+				font-size: inherit;
+				border-width: 1px 1px 1px 1px;
+				border-style: solid;
+				border-color: black;
+				height: 10vmin;
+				}
+			div.add_product_manual_text
+				{
+				grid-column: 2 / span 2;
+				grid-row: 2 / span 1;
+				text-align: center;
+				}
+
+/* CHANGER PRODUCT */
+
+	div.change_product_margin
+		{
+		height: 20vmin;
+		background-color: #eee;
+		}
+	div.change_product
+		{
+		width: 93vw;
+		font-size: 4vmin;
+		bottom: 10vh;
+		z-index: 10;
+		}
+
+	/* Changer un produit */
+		div.change_product_add_button
+			{
+			text-align: right;
+			height: 18vmin;
+			}
+		img.change_product_add_button
+			{
+			text-align: right;
+			height: 13vmin;
+			}
+
+	/* Commun */
+		a.change_product_close
+			{
+			display: block;
+			text-align: right;
+			margin-right: 3vmin;
+			color: inherit;
+			}
+		.change_product_style_button
+			{
+			position: relative;
+			border: solid 1px #eee;
+			background-color: #eee;
+			border-radius: 2vmin;
+			box-shadow: 0 0 .5rem #555;
+			padding:2vmin auto;
+			top: 0; bottom: 0;
+			left: 0; right: 0;
+			margin: 0;
+			}
+
+/* CFG */
+
+	/* Select methode */
+		.href_stock_cfg
+			{
+			height: 0;
+			overflow: hidden;
+			transition: height 0s;
+			background-color: white;
+			}  
+		.href_stock_cfg:target
+			{
+			height: 35vmin;
+			}
+
+	/* Select methode */
+		.href_change_product_method
+			{
+			height: 0;
+			overflow: hidden;
+			transition: height 0s;
+			background-color: white;
+			}  
+		.href_change_product_method:target
+			{
+			height: 35vmin;
+			}
+		/* method_grid */
+			.change_product_method_grid
+				{
+				/*background-color:	AntiqueWhite;*/
+				position: relative;
+				display: grid;
+				grid-template-columns:
+				auto 30vmin 10vmin 30vmin auto  ;
+				margin: 3vmin 0;
+				grid-gap: 0 .5rem;
+				text-align: left;
+				height: 15vmin;
+				}
+			div.change_product_method_scan
+				{
+				grid-column: 2/ span 1;
+				grid-row: 1 / span 1;
+				text-align: center;
+				}
+			img.change_product_method_scan
+				{
+				height: 100%;
+				height: 13vmin;
+				margin-top: 1vmin;
+				}
+			.change_product_method_or
+				{
+				grid-column: 3 / span 1;
+				grid-row: 1 / span 1;
+				text-align: center;
+				margin-top: 4vmin;
+				font-size: 5vmin;
+				}
+			.change_product_method_manual
+				{
+				grid-column: 4 / span 1;
+				grid-row: 1 / span 1;
+				position: relative;
+				top: 0; bottom: 0;
+				left: 0; right: 0;
+				color: black;
+				text-decoration: none;
+				font-size: 5vmin;
+				text-align: center;
+				}
+			.change_product_method_scan_text
+				{
+				grid-column: 2 / span 1;
+				grid-row: 2 / span 1;
+				text-align: center;
+				}
+			.change_product_method_manual_text
+				{
+				grid-column: 4 / span 1;
+				grid-row: 2 / span 1;
+				text-align: center;
+				}
+
+	/* Saisie manuelle */
+		.href_change_product_manual
+			{
+			height: 0;
+			overflow: hidden;
+			transition: height 0s;
+			background-color: white;
+			}  
+		.href_change_product_manual:target
+			{
+			height: 35vmin;
+			}
+		/* method_grid */
+			.change_product_manual_grid
+				{
+				/*background-color:	AntiqueWhite;*/
+				position: relative;
+				display: grid;
+				grid-template-columns:
+				auto 60vmin 10vmin auto  ;
+				margin: 3vmin 0;
+				text-align: left;
+				}
+			input.change_product_manual_value
+				{
+				grid-column: 2 / span 1;
+				grid-row: 1 / span 1;
+				position: relative;
+				top: 0; bottom: 0;
+				left: 0; right: 0;
+				padding-left: 3vmin;
+				background-color: #47CAFF;
+				color: white;
+				font-size: inherit;
+				border-width: 1px 0 1px 1px;
+				border-style: solid;
+				border-color: black;
+				}
+			input.change_product_manual_submit
+				{
+				grid-column: 3 / span 1;
+				grid-row: 1 / span 1;
+				cursor: pointer;
+				top: 0; bottom: 0;
+				left: 0; right: 0;
+				text-align: center;
+				text-decoration: none;
+				display: inline-block;
+				font-size: 4vmin;
+				width: 100%;
+				background-color: #00B6FF;
+				color: white;
+				font-size: inherit;
+				border-width: 1px 1px 1px 1px;
+				border-style: solid;
+				border-color: black;
+				height: 10vmin;
+				}
+			div.change_product_manual_text
+				{
+				grid-column: 2 / span 2;
+				grid-row: 2 / span 1;
+				text-align: center;
+				}

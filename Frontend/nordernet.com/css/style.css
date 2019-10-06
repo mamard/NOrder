@@ -1,0 +1,187 @@
+/* STYLE.CSS */
+
+	input, select, body
+		{
+		font-family: 'Open Sans',sans-serif;
+		}
+	body
+		{
+		/*background-color:red;*/
+		margin:0;
+		font-size: 0;
+		color: #555;
+		height: 100vh;
+		width:100vw;
+		}
+	a
+		{
+		text-decoration:none;
+		}
+	.style_box
+		{
+		background-color: White;
+		text-align: center;
+		margin: 1rem auto 1rem auto;
+		border-radius: .8rem;
+		padding: .5rem;
+		}
+	.style_box,header,footer	
+		{
+		box-shadow: 0 0 .5rem #555;
+		}
+
+	/*span.color*/
+		span.black
+			{color: #000}
+		span.normal
+			{color: #0c0}
+		span.warning
+			{color: #f70}
+		span.alert
+			{color: #c00}
+
+/* HEADER */
+
+	header 
+		{
+		background-color:white;
+		position: fixed;
+		height: 10vh;
+		width: 100vw;
+		top: 0;
+		z-index: 100;
+		}
+	img.header_logo
+		{
+		position: relative;
+		top: .5vh;
+		left: 2vh;
+		height: 9vh;
+		}
+	div.header_login
+		{
+		position: absolute;
+		right: 5vw;
+		top: 2.5vh;
+		text-align: right;
+		}
+	span.header_login
+		{
+		color: #555;
+		font-size: 4vh;
+		margin: 0 1vw 0 1vw;
+		}
+	img.header_login
+		{
+		height: 4vh;
+		margin: 0 1vw 0 1vw;
+		transform: translateY(.6vh);
+		}
+
+/* MAIN */
+
+	main
+		{
+		background-color: #eee;
+		position: absolute;
+		overflow: auto;
+		top: 10vh;
+		right:0;
+		bottom: 11vh;
+		left:0;
+		}
+	div.main
+		{
+		/*background-color: red;*/
+		margin: 0 auto;
+		width: 93vw;
+		/*max-width: 93vh;*/
+		}
+
+/* FOOTER */
+
+	footer 
+		{
+		background-color: white;
+		position: fixed;
+		height: 10vh;
+		width: 100vw;
+		bottom: 0;
+		text-align: center;
+		padding-top: 1vh;
+		z-index: 100;
+		}
+	footer a
+		{
+		display: inline-block;
+		height: 7.6vh;
+		width: 20vw;
+		}
+
+	div.footer_div
+		{
+		display: inline-block;
+		width: 20vw;
+		filter:	grayscale(1);
+		}
+	div.footer_texte
+		{
+		display: inline-block;
+		transform: translateY(-2vh);
+		width: 18vw;
+		font-size: 2vh;
+		font-weight:bold;
+		text-decoration: none;
+		color: #00B6FF;
+		}
+	img.footer_ico
+		{
+		height: 6vh;
+		}
+
+/* rotation permanente*/
+	/* <div class="effect_rotated"><img ...></div> */
+
+	div.effect_rotated
+		{
+		animation: rotated 1.5s linear 0s infinite;
+		}
+	@keyframes rotated
+		{
+		from { transform: rotate(0deg); }
+		to { transform: rotate(360deg); }
+		}
+
+	div.sync_box
+		{
+		width: 30vh;
+		padding: 2vh 0;
+		margin-top: 10vh;
+		z-index: 1000;
+		position:fixed;
+	    width:100%;
+	    height:100%;
+	    top:0px;
+	    left:0px;
+		}
+
+	main.loading .sync_box {
+    	overflow: hidden;   
+	}
+
+	/* Anytime the body has the loading class, our
+	   modal element will be visible */
+	main.loading .sync_box {
+	    display: block;
+	}
+
+	div.sync_text
+		{
+		font-size: 3vh;
+		margin: 2vh 0;
+		}
+
+	img.sync
+		{
+		width: 10vh;
+		}
